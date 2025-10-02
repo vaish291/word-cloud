@@ -1,0 +1,5 @@
+streamlit
+wordcloud
+matplotlib
+pillow
+numpy
